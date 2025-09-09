@@ -27,6 +27,6 @@ I’m a frontend developer transitioning into cloud engineering using **AWS, Ter
 5. [Final Portfolio Blog Platform](./projects/blog-platform)  
 
 ## 🔗 Connect
-- Twitter/X: [your_handle]  
-- LinkedIn: [your_profile]  
-- GitHub: [your_username]  
+- Twitter/X: https://x.com/susu_omo 
+- LinkedIn:  https://linkedin.com/in/sulaimon-omotosho
+- GitHub: https://github.com/Sulaimon-Omotosho 
